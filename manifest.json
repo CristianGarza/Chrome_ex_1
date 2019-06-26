@@ -1,0 +1,11 @@
+{
+  "name": "Cristian's First Extension",
+  "version": "6.9",
+  "description": "I like...   BIG BOIS, itty bitty bois",
+  "permissions": ["storage"],
+  "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+  "manifest_version": 2
+}
